@@ -1,0 +1,19 @@
+{
+    "name": "com.berkecuhadar.unitydialoguegenerator.Tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:859a5fa3a8ac0774097d6de1276acfe6"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
