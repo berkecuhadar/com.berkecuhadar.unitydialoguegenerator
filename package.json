@@ -1,6 +1,6 @@
 {
   "name": "com.berkecuhadar.unitydialoguegenerator",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "displayName": "Unity Dialogue Generator",
   "description": "A Unity Package for generating text by gpt2 based server",
   "unity": "2022.3",
