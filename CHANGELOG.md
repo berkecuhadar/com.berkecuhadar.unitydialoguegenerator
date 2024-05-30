@@ -10,6 +10,8 @@ All notable changes to this project will be documented in this file.
 ## [1.0.0] - 2024-05-30
 ### Added
 - new requirements and dependecies for developers.
+- missing meta files
 ### Remove
 - StreamingResources folder and server.exe file
+- old meta files
 
